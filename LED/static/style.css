@@ -1,0 +1,15 @@
+body {
+    display: block;
+    max-width: fit-content;
+    margin:auto;
+    margin-top: 25%;
+    background-color: rgb(14, 14, 14);
+}
+
+img {
+    margin:auto; 
+    margin-inline: auto;
+    max-width: fit-content;
+    cursor: zoom-in;
+    background-color: hsl(0, 0%, 90%);
+}
