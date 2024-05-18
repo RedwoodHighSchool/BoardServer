@@ -16,5 +16,9 @@ To run use the command: `make`
 OR
 `python3 manage.py runserver 0.0.0.0:8000`
 
+
+---
+
+
 ### Credits
 This repo was created by Cole Musolf for Usage and Ownership of Redwood High School and Mr. SF
