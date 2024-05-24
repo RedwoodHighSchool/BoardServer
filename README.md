@@ -1,8 +1,8 @@
 # Django Server API for serving 64x64 Gifs
 ---
 ## Usage
-To use this API simply go to [http://ip:8000](http://34.94.111.104:8000/)\
-Current IP: 34.94.111.104\
+To use this API simply go to [http://ip:8000](http://34.67.178.162:8000/)\
+Current IP: 34.67.178.162\
 This IP is **NOT** static and is rather dynamic, meaning it is subject to change when the server restarts
 ## Layout
 The Project Is layout is as follows:\
